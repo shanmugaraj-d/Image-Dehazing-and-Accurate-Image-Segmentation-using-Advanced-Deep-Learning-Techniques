@@ -52,17 +52,20 @@ This module integrates the outputs of the dehazing and segmentation modules to o
 
 ## Results and Discussion
 
-![   ](https://github.com/shanmugaraj-d/Image-Dehazing-and-Accurate-Image-Segmentation-using-Advanced-Deep-Learning-Techniques/assets/88392078/a055d7aa-6289-414e-8c92-a8642d00c922)
+![Screenshot (211)](https://github.com/shanmugaraj-d/Image-Dehazing-and-Accurate-Image-Segmentation-using-Advanced-Deep-Learning-Techniques/assets/88392078/afdcc14d-89f5-4abc-838e-dedd66362687)
+
 
 Experimental results demonstrate the effectiveness of the proposed framework in achieving state-of-the-art performance in image dehazing and segmentation tasks. The framework outperforms existing methods in terms of image quality enhancement and segmentation accuracy, showcasing its potential for diverse applications.
 
-![Confusion matrix](https://github.com/shanmugaraj-d/Image-Dehazing-and-Accurate-Image-Segmentation-using-Advanced-Deep-Learning-Techniques/assets/88392078/119fd729-1006-43a5-88be-cbf37e76eb63 | width=100)
+![Picture3](https://github.com/shanmugaraj-d/Image-Dehazing-and-Accurate-Image-Segmentation-using-Advanced-Deep-Learning-Techniques/assets/88392078/2869a66b-c124-4cef-bf8e-9aea89b96a82)
+
 
 ## Conclusion
 
 The cutting-edge framework presented in this project offers a powerful solution for addressing challenges in image dehazing and segmentation. By leveraging advanced deep learning techniques, the framework enhances image processing capabilities and enables precise analysis and interpretation of images across various domains.
 
-![  ](https://github.com/shanmugaraj-d/Image-Dehazing-and-Accurate-Image-Segmentation-using-Advanced-Deep-Learning-Techniques/assets/88392078/02606047-e9cc-417b-8ed2-a2121c46b414)
+![   ](https://github.com/shanmugaraj-d/Image-Dehazing-and-Accurate-Image-Segmentation-using-Advanced-Deep-Learning-Techniques/assets/88392078/470bd77c-b04a-4741-8fdf-32cf6c8f5cd6)
+
 
 ## Future Work
 
