@@ -56,7 +56,7 @@ This module integrates the outputs of the dehazing and segmentation modules to o
 
 Experimental results demonstrate the effectiveness of the proposed framework in achieving state-of-the-art performance in image dehazing and segmentation tasks. The framework outperforms existing methods in terms of image quality enhancement and segmentation accuracy, showcasing its potential for diverse applications.
 
-![Confusion matrix]![Picture3](https://github.com/shanmugaraj-d/Image-Dehazing-and-Accurate-Image-Segmentation-using-Advanced-Deep-Learning-Techniques/assets/88392078/e2176681-1bcf-43ed-b235-fdd5b7976c7c)
+![Confusion matrix](https://github.com/shanmugaraj-d/Image-Dehazing-and-Accurate-Image-Segmentation-using-Advanced-Deep-Learning-Techniques/assets/88392078/e2176681-1bcf-43ed-b235-fdd5b7976c7c)
 
 ## Conclusion
 
